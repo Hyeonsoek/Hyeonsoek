@@ -17,8 +17,8 @@
 </h1>
 
 <figure class='half' align='center'>
-    <a href='link'><img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=lee_seulbi'></a>
-    <a href='link'><img src="http://mazandi.herokuapp.com/api?handle=lee_seulbi&theme=dark"></a>
+    <a href='link'><img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=lee_seulbi' align='center'></a>
+    <a href='link'><img src="http://mazandi.herokuapp.com/api?handle=lee_seulbi&theme=dark" align='center'></a>
 </figure>
 
 </br>
