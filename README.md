@@ -1,3 +1,6 @@
+<div align='center'>
+
+
 <h1 align='center'>
     Tech Stack
 </h1>
@@ -16,16 +19,15 @@
     Solved.ac
 </h1>
 
-<figure class='half' align='center'>
-    <a href='link'><img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=lee_seulbi' align='center'></a>
-    <a href='link'><img src="http://mazandi.herokuapp.com/api?handle=lee_seulbi&theme=dark" align='center'></a>
-</figure>
 
-</br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lee_seulbi)](https://solved.ac/lee_seulbi)![mazandi profile](http://mazandi.herokuapp.com/api?handle=lee_seulbi&theme=dark)
 
 <h2 align='center'>
     My Github Status
 </h2>
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=Hyeonsoek'>
+</div>
+
 </div>
