@@ -23,11 +23,4 @@
 
 </br>
 
-<h1 align='center'>
-    My Github Status
-</h1>
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=Hyeonsoek'>
-</div>
-
 </div>
